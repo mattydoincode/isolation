@@ -1,0 +1,12 @@
+C:\src\IsolationServer\IsolationServer\bin\Debug\IsolationServer.exe.config
+C:\src\IsolationServer\IsolationServer\bin\Debug\IsolationServer.exe
+C:\src\IsolationServer\IsolationServer\bin\Debug\IsolationServer.pdb
+C:\src\IsolationServer\IsolationServer\obj\Debug\IsolationServer.csprojResolveAssemblyReference.cache
+C:\src\IsolationServer\IsolationServer\obj\Debug\IsolationServer.exe
+C:\src\IsolationServer\IsolationServer\obj\Debug\IsolationServer.pdb
+C:\src\IsolationCode\IsolationServer\IsolationServer\bin\Debug\IsolationServer.exe.config
+C:\src\IsolationCode\IsolationServer\IsolationServer\obj\Debug\IsolationServer.exe
+C:\src\IsolationCode\IsolationServer\IsolationServer\obj\Debug\IsolationServer.pdb
+C:\src\IsolationCode\IsolationServer\IsolationServer\bin\Debug\IsolationServer.exe
+C:\src\IsolationCode\IsolationServer\IsolationServer\bin\Debug\IsolationServer.pdb
+C:\src\IsolationCode\IsolationServer\IsolationServer\obj\Debug\IsolationServer.csprojResolveAssemblyReference.cache

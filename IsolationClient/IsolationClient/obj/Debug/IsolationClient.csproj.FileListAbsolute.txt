@@ -1,0 +1,9 @@
+C:\src\IsolationClient\IsolationClient\bin\Debug\IsolationClient.exe.config
+C:\src\IsolationClient\IsolationClient\bin\Debug\IsolationClient.exe
+C:\src\IsolationClient\IsolationClient\bin\Debug\IsolationClient.pdb
+C:\src\IsolationClient\IsolationClient\obj\Debug\IsolationClient.exe
+C:\src\IsolationClient\IsolationClient\obj\Debug\IsolationClient.pdb
+C:\src\IsolationCode\IsolationClient\IsolationClient\bin\Debug\IsolationClient.exe.config
+C:\src\IsolationCode\IsolationClient\IsolationClient\obj\Debug\IsolationClient.exe
+C:\src\IsolationCode\IsolationClient\IsolationClient\obj\Debug\IsolationClient.pdb
+C:\src\IsolationCode\IsolationClient\IsolationClient\bin\Debug\IsolationClient.exe
